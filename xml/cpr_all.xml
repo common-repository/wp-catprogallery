@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<slideshow >
+
+	<mobileSettings>
+		<currencySymbol>$</currencySymbol>
+		<width>700</width>
+		<height>650</height>
+		<containerid>gal1374245582</containerid>
+        <heightManual></heightManual>
+        <mheight1></mheight1>
+        <mheight2></mheight2>
+        <mheight3></mheight3>
+        <mheight4></mheight4>
+	</mobileSettings>
+	<baseDef fullscreen="1" showCatDescriptionAlways="true" transitionTime="1.5" autoSlideTimer="3" autoScale="1" autoAlign="1" gradientColor="0xE8EBEA" gradientColor1="0xCCCCCC" CatsWidth="96" catsHeight="72"  catsbackColor="0xE2D289" arrowsColor= "0x666666" CatsTitleBarColor="0x000000" CatsTextColor="0xFFFFFF" catsImagebackColor="0x" catsTextSize="10" ImageHeight="450" thumbListColor="0x000000" thumbListAlpha="50" thumbTextColor="0xFFFFFF" thumbButtonColor="0x515151" thumbButtonOverColor="0x171717" thumbTextSize="13" descColorBack="0x000000" descTextColor="0xFFFFFF" backTransperency="0" ActiveCat="1"
+	categoryStatus="show"	
+	/>
+	<priceTag enabled="yes">
+			<position>TL</position>
+			<textSize>22</textSize>
+			
+			<currency>
+				<base>
+					<color code="#FFFFFF" alpha="0.8" />
+
+					<color code="#CECECE" alpha="0.8" />
+
+
+				</base>
+
+				<label color="#FF00CC" alpha="0.8" />
+				<symbol>$</symbol>
+			</currency>
+
+			<price>
+				<base color="#FF00CC" alpha="0.5" />
+				<label color="#FFFFFF" alpha="1" />
+			</price>
+	</priceTag>
+
+
+		<imageEffect>
+			<type>1</type>
+			<time>1000</time>
+			<closingEffect>default</closingEffect>
+		</imageEffect>
+
+			<descriptionEffect>
+			<type>1</type>
+		</descriptionEffect>
+
+<content>
+				
+				<category>
+					<title><![CDATA[Cat1]]></title>
+					<thumb>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/thumb/balloons-resized.jpg</thumb><item>
+<label>img1</label>
+	<thumb>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/thumb/minimalist_by_artistry_and_imagery-resized.jpg</thumb>
+<main>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/big/minimalist_by_artistry_and_imagery.jpg</main>
+	<description><![CDATA[]]></description>
+	<link window="_self"></link><price><regular></regular></price></item><item>
+<label>img2</label>
+	<thumb>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/thumb/bird10-resized.jpg</thumb>
+<main>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/big/bird10.jpg</main>
+	<description><![CDATA[]]></description>
+	<link window="_self"></link><price><regular></regular></price></item><item>
+<label>img3</label>
+	<thumb>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/thumb/bird12-resized.jpg</thumb>
+<main>http://localhost/yoo_master_wp/wp-content/uploads/catpro/1_uploadfolder/big/bird12.jpg</main>
+	<description><![CDATA[]]></description>
+	<link window="_self"></link><price><regular></regular></price></item></category></content>
+</slideshow>
